@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 1, filename: KR2p0174_001.yaml, hash: 'sha256:fc9b9cd6f7ad0dfb076c693332c7abb7c4dc4028c0db46a6ea82b3a72e67cd25'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0174_001.markers.yaml, hash: 'sha256:1beef92df47c87762f4a13626bf8c3a992d7bcaaeec8928cc5467c73f011416d'}
+  - {seq: 1, role: markers, filename: assets/KR2p0174_001.markers.yaml, hash: 'sha256:7a5bb8e097d2378a2f64f128f057a2b2fb5caa059060c6b4f77d248eecec3a58'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,7 @@ table_of_contents:
   label: 武威漢簡甲本燕禮釋文
   type: section
   level: 1
-hash: sha256:d95455093fd2999a1e4616522502fb27ccc2e384b1a6a4ec196b6b8453a97b7a
+hash: sha256:5621b6ddb5a5687dc921e56a98ba949ca8f79fa2797f211c6f200752c9cb7429
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

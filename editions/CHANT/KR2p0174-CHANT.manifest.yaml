@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 1, filename: KR2p0174_001-CHANT.yaml, hash: 'sha256:c09e9305f674012fc4f33e43265be1f48a2518fd9a0f9e0c383a29085ccb24e7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0174_001-CHANT.markers.yaml, hash: 'sha256:8e11c0d09e839ba76b0ff3543e51c80c2d8a725b979a41af2d3ccb95efc3b00b'}
+  - {seq: 1, role: markers, filename: assets/KR2p0174_001-CHANT.markers.yaml, hash: 'sha256:ac3871e2117b44d85b4d9dfb70b9934173ddb47052a5045cf470eefe9b4f94e6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,4 @@ table_of_contents:
   label: 武威漢簡甲本燕禮釋文
   type: section
   level: 1
-hash: sha256:0c3246f2319e79ad6a334420dc5693a3e6574c75d01cea4ed6c4fd632ab4c4e8
+hash: sha256:942563a735266f69d354d34d24ef19e54814013634da5f0421eb59c586a82a71
